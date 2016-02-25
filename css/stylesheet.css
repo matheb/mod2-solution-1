@@ -21,7 +21,8 @@ section {
   position: relative;
   border: 1px solid black;
   margin: 0px 7px 0px 7px;
-  background: #999999;
+  background: #CCCCCC;
+  color: black;
   height: 100%
 }
 
